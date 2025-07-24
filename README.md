@@ -1,6 +1,6 @@
 ## Hi there 👋
-[![rlawodud](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{rlawodud})
-<!--
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawodud)](https://solved.ac/rlawodud)<!--
 **Jae-Yeong99/Jae-Yeong99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
